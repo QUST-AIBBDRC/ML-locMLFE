@@ -1,6 +1,8 @@
 # Intro  
 ML-locMLFE is a novel prediction multi-label protein subcellular localization  model, which is able to use sparse reconstruction of the training samples to represent the bottom layer of the feature space. 
-![ML-locMLFE](https://github.com/QUST-AIBBDRC/ML-locMLFE/blob/0fe360ae7346238d5cabefb17a1d49fedc0a8784/IMG/ML-locMLFE_framework.png)
+![2070f26ac75cf1f8feb4453dbe054d4](https://user-images.githubusercontent.com/38091066/132985197-b5bcab1c-c1c1-46cb-86df-59977878b12c.png)
+
+
 # System requirement  
 ML-locMLFE is developed under Windows environment with:  
 matlab 2015b
