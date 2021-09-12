@@ -24,5 +24,3 @@ pandas  0.20.1
 # contact   
 Contact: 
 Bin Yu  (yubin@qust.edu.cn)
-
-
