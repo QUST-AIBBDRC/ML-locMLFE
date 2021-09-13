@@ -12,7 +12,7 @@ pandas  0.20.1
 
 # Build dataset
 1.Build newPlant dataset following (https://www.uniprot.org/uniprot/)
-2.Build newPlant dataset following (https://www.covid19dataportal.org/)
+2.Build SARS-CoV-2 dataset following (https://www.covid19dataportal.org/)
 
 # Dataset, feature and model
 1. The dataset file contains Gram-positive bacteria dataset, newplant dataset, SARS-CoV-2 dataset, virus dataset and Gram-negative bacteria dataset.
