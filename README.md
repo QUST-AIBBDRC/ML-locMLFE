@@ -3,6 +3,7 @@ ML-locMLFE is a novel prediction multi-label protein subcellular localization  m
 
 <img width="969" alt="c63393d4a0219af8aac499b404932dd" src="https://user-images.githubusercontent.com/38091066/132985236-e927b394-aef5-45b2-a729-937c24352d7e.png">
 
+![1232](https://user-images.githubusercontent.com/38091066/140920214-cb88875b-4648-4153-9434-c33fb44a59d2.png)
 
 
 # System requirement  
